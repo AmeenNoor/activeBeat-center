@@ -1,4 +1,4 @@
-# ActiveLife Center
+# ActiveBeat Center
 
 ## Author
 
@@ -8,7 +8,7 @@ Ameen Noor
 
 ## Table of Contents
 
-- [ActiveLife Center](#activelife-center)
+- [ActiveBeat Center](#activebeat-center)
   - [Author](#author)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
