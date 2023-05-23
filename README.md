@@ -26,12 +26,12 @@ Ameen Noor
 ## User Experience (UX)
 ### Wireframes
 #### Desktop
-<img src="../activeBeat-center/assets/wireframes/HomePage.png" alt="Desktop 1" width="33%" height="100%"> <img src="../activeBeat-center/assets/wireframes/ClassesPage.png" alt="Desktop 2" width="33%" height="100%"> <img src="../activeBeat-center/assets/wireframes/ContactUsPage.png" alt="Desktop 3" width="33%">
+<img src="../activeBeat-center/assets/wireframes/HomePage.png" alt="Desktop 1" width="20%" height="100%"> <img src="../activeBeat-center/assets/wireframes/ClassesPage.png" alt="Desktop 2" width="20%" height="100%"> <img src="../activeBeat-center/assets/wireframes/ContactUsPage.png" alt="Desktop 3" width="20%">
 
 #### Tablet
-<img src="../activeBeat-center/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="33%" height="100%"> <img src="../activeBeat-center/assets/wireframes/TabletPage2.png" alt="Tablet 2" width="33%" height="100%"> <img src="../activeBeat-center/assets/wireframes/TabletPage3.png" alt="Tablet 3" width="33%">
+<img src="../activeBeat-center/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="20%" height="100%"> <img src="../activeBeat-center/assets/wireframes/TabletPage2.png" alt="Tablet 2" width="20%" height="100%"> <img src="../activeBeat-center/assets/wireframes/TabletPage3.png" alt="Tablet 3" width="20%">
 #### Mobile
-<img src="../activeBeat-center/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="33%" height="100%"> <img src="../activeBeat-center/assets/wireframes/MobilePhonePage2.png" alt="Mobile 2" width="33%" height="100%"> <img src="../activeBeat-center/assets/wireframes/MobilePhonePage3.png" alt="Mobile 3" width="33%">
+<img src="../activeBeat-center/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="20%" height="100%"> <img src="../activeBeat-center/assets/wireframes/MobilePhonePage2.png" alt="Mobile 2" width="20%" height="100%"> <img src="../activeBeat-center/assets/wireframes/MobilePhonePage3.png" alt="Mobile 3" width="20%">
 ## Design
 
 ## Technologies Used
