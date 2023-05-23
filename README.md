@@ -34,7 +34,7 @@ Ameen Noor
 
 #### Mobile
 
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage2.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/TabletPage3.png" alt="Mobile 3" width="200">
+<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage2.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage3.png" alt="Mobile 3" width="200">
 
 
 ## Technologies Used
