@@ -26,15 +26,15 @@ Ameen Noor
 ### Wireframes
 #### Desktop
 
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/HomePage.png" alt="Desktop 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/ClassesPage.png" alt="Desktop 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/ContactUsPage.png" alt="Desktop 3" width="270px" height="270px">
+<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/home-page.png" alt="Desktop 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/classes-page.png" alt="Desktop 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/contact-us-page.png" alt="Desktop 3" width="270px" height="270px">
 
 #### Tablet
 
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/TabletPage2.png" alt="Tablet 2" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/TabletPage3.png" alt="Tablet 3" width="250">
+<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/tablet-page1.png" alt="Tablet 1" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/tablet-page2.png" alt="Tablet 2" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/tablet-page3.png" alt="Tablet 3" width="250">
 
 #### Mobile
 
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage2.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/MobilePhonePage3.png" alt="Mobile 3" width="200">
+<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/mobile-phone-page1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/mobile-phone-page2.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/mobile-phone-page3.png" alt="Mobile 3" width="200">
 
 
 ## Technologies Used
