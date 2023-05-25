@@ -61,3 +61,18 @@ h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* fitness image section */
+
+#fitness-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#fitness-image {
+    background: url('../images/fitness.jpeg') no-repeat center center;
+    width: 100%;
+    height: 600px;
+}
