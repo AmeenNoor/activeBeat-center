@@ -92,3 +92,35 @@ h2 {
     font-size: 25px;
     text-align: justify;
 }
+
+/* membership section */
+
+#membership {
+    width: 63%;
+    margin: 0 auto;
+}
+
+#membership div {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    border: 5px solid white;
+    border-radius: 15px;
+
+}
+
+#left-membership {
+    background-color: greenyellow;
+}
+
+#middle-membership {
+    background-color: rgb(255, 193, 47);
+}
+
+#right-membership {
+    background-color: rgb(255, 68, 47);
+}
+
+#membership h2 {
+    margin: 20px 0;
+}
