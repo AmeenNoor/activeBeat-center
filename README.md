@@ -43,6 +43,24 @@ Ameen Noor
 - Git
 ## Deployment
 
+˘To deploy the project from GitHub, follow the steps below:
+
+1. Click on the "Settings" tab located near the top-right corner of the repository page (see screenshot below):
+
+![Deployment Image1](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image1.png)
+
+1. Scroll down the settings page and click "Pages", on the left side (see screenshot below):
+
+![Deployment Image2](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image2.png)
+
+1. In the "Source" dropdown menu, select "main" and click "Save" (see screenshot below):
+
+![Deployment Image3](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image3.png)
+
+1. Scroll back up to the "GitHub Pages" section, and you will find a URL . (Note: It may take a few moments for GitHub Pages to build and deploy the project.) (see screenshot below):
+
+![Deployment Image4](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image4.png)
+
 ## Testing
 
 ## Credits
