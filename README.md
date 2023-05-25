@@ -43,7 +43,7 @@ Ameen Noor
 - Git
 ## Deployment
 
-˘To deploy the project from GitHub, follow the steps below:
+To deploy the project from GitHub, follow the steps below:
 
 1. Click on the "Settings" tab located near the top-right corner of the repository page (see screenshot below):
 
