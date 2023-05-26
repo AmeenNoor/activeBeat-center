@@ -126,3 +126,24 @@ h2 {
 #membership h3 {
     margin: 30px;
 }
+
+/* social media section */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 2%;
+    color: #3a3a3a;
+}
