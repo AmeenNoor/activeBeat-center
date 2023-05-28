@@ -277,13 +277,12 @@ iframe {
     width: 80%;
     overflow: hidden;
     position: relative;
-    background-color: aqua;
+    background-color: rgb(170, 255, 0);
     height: 900px;
 }
 
 #thank-container p {
     font-size: 30px;
-
     margin: 100px;
     border: 1px solid black;
     text-align: center;
