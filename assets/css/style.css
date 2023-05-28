@@ -191,24 +191,6 @@ footer {
     margin: 15px 0;
 }
 
-/* Button for book a class */
-
-.book-button {
-    text-align: center;
-    font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
-    display: block;
-    margin: 40px auto;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-}
-
-.book-button:hover {
-    background-color: #fafafa;
-    color: #f16c6b;
-}
-
 /* Contact us Page */
 
 #contact-container {
@@ -250,7 +232,7 @@ iframe {
     padding-bottom: 20px;
 }
 
-.send-button {
+.button {
     text-align: center;
     font-size: 100%;
     background-color: #f16c6b;
@@ -261,7 +243,22 @@ iframe {
     padding: 15px 32px 15px 32px;
 }
 
-.send-button:hover {
+.button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+/* Booking page */
+
+#booking-container {
+    margin: 0 auto;
+    padding: 40px;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+}
+
+#booking-container form {
+    width: 30%;
+    margin: 0 auto;
 }
