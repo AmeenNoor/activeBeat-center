@@ -261,10 +261,30 @@ iframe {
 #booking-container h2 {
     text-align: center;
     margin: 40px;
-    
+
 }
 
 #booking-container form {
     width: 30%;
     margin: 0 auto;
+}
+
+/* Thank you page */
+
+#thank-container {
+    margin: 0 auto;
+    padding: 40px;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+    background-color: aqua;
+    height: 900px;
+}
+
+#thank-container p {
+    font-size: 30px;
+
+    margin: 100px;
+    border: 1px solid black;
+    text-align: center;
 }
