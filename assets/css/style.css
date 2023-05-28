@@ -258,6 +258,12 @@ iframe {
     position: relative;
 }
 
+#booking-container h2 {
+    text-align: center;
+    margin: 40px;
+    
+}
+
 #booking-container form {
     width: 30%;
     margin: 0 auto;
