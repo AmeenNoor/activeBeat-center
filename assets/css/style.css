@@ -212,19 +212,40 @@ footer {
 /* Contact us Page */
 
 #contact-container {
-
-    clear: both;
     margin: 0 auto;
     width: 80%;
-    height: 900px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
 }
 
-.contact-form {
-    display: inline-block;
-    margin: 150px 10% 0 0;
-    max-width: 400px;
-}
-
+.contact-form,
 .contact-info {
-    display: inline-block;
+    width: 30%;
+    margin: 10px auto;
+    padding: 40px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+iframe {
+    width: 400px;
+    height: 300px;
+    padding-bottom: 20px;
 }
