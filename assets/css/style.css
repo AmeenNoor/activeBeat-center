@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
 
 /* Remove default margins,
 padding and borders */
@@ -185,6 +185,7 @@ footer {
     height: 300px;
     margin: 0 auto;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 .cell h3,
@@ -212,7 +213,6 @@ footer {
 form {
     display: flex;
     flex-direction: column;
-
 }
 
 label {
