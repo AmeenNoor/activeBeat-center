@@ -22,10 +22,8 @@ body {
 
 h1 {
     font-family: 'Rye', cursive;
-    text-transform: uppercase;
-    font-style: italic;
     letter-spacing: 4px;
-    color: #252525;
+    color: #141850;
 }
 
 h2,
