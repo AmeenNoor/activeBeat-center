@@ -245,6 +245,15 @@ iframe {
     border-bottom-right-radius: 60px;
 }
 
+.contact-information h3,
+.contact-information p {
+    padding: 5px 0;
+}
+
+.contact-information h3 {
+    color: #141850;
+}
+
 form {
     display: flex;
     flex-direction: column;
