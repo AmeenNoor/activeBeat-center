@@ -237,6 +237,14 @@ iframe {
     padding-bottom: 20px;
 }
 
+.contact-information {
+    background-color: #ed7966;
+    color: white;
+    padding: 30px 0 30px 60px;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
 form {
     display: flex;
     flex-direction: column;
