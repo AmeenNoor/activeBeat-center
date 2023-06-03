@@ -65,11 +65,12 @@ span {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #ed7966;
+    ;
 }
 
-.active {
-    border-bottom: 2px solid #3a3a3a;
+#menu .active {
+    color: #ed7966;
 }
 
 /* fitness image section */
