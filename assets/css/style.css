@@ -175,6 +175,12 @@ footer {
     margin: 20px auto;
 }
 
+.classes-row {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+
 .cell {
     width: 33%;
     height: 400px;
@@ -190,6 +196,7 @@ footer {
     margin: 0 auto;
     border-radius: 50%;
     object-fit: cover;
+    box-shadow: 0 0 20px 0 #ed7966;
 }
 
 .cell h3,
