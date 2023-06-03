@@ -211,6 +211,7 @@ footer {
     width: 80%;
     overflow: hidden;
     position: relative;
+
 }
 
 #contact-container>h2 {
@@ -221,6 +222,7 @@ footer {
 .info-container {
     margin: 0 auto;
     display: flex;
+
 }
 
 .contact-form,
@@ -264,7 +266,8 @@ label {
 }
 
 input,
-textarea {
+textarea,
+select {
     margin-bottom: 10px;
     padding: 5px;
     border: 1px solid #ccc;
@@ -300,12 +303,13 @@ textarea {
 #booking-container h2 {
     text-align: center;
     margin: 40px;
-
 }
 
 #booking-container form {
     width: 30%;
     margin: 0 auto;
+    padding: 40px;
+    box-shadow: 0 0 20px 0 #ed7966;
 }
 
 /* Thank you page */
