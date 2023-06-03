@@ -211,7 +211,11 @@ footer {
     width: 80%;
     overflow: hidden;
     position: relative;
-    display: flex;
+}
+
+#contact-container>h2 {
+    text-align: center;
+    margin: 40px;
 }
 
 .contact-form,
@@ -219,6 +223,7 @@ footer {
     width: 30%;
     margin: 10px auto;
     padding: 40px;
+    box-shadow: 0 0 20px 0 #ed7966;
 }
 
 form {
