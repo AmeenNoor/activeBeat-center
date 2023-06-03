@@ -266,14 +266,23 @@ label {
     margin-bottom: 5px;
 }
 
-input,
-textarea,
-select {
+#name,
+#email,
+#phone,
+#address,
+#gender,
+#day,
+#message,
+#time {
     margin-bottom: 10px;
     padding: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #141850;
     border-radius: 4px;
 }
+
+input,
+textarea,
+select {}
 
 .button {
     text-align: center;
