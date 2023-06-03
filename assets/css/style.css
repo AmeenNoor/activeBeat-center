@@ -231,6 +231,7 @@ footer {
     margin: 25px auto;
     padding: 40px;
     box-shadow: 0 0 20px 0 #ed7966;
+    border-bottom-right-radius: 90px;
 }
 
 iframe {
@@ -310,6 +311,7 @@ select {
     margin: 0 auto;
     padding: 40px;
     box-shadow: 0 0 20px 0 #ed7966;
+    border-bottom-right-radius: 90px;
 }
 
 /* Thank you page */
