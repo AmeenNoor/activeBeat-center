@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Open+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&family=Rye&display=swap');
 
 /* Remove default margins,
 padding and borders */
@@ -10,8 +10,8 @@ padding and borders */
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 300;
     color: #3a3a3a;
     background-image: linear-gradient(to bottom, rgba(0, 234, 255, 0), rgb(0, 183, 255));
 }
@@ -19,11 +19,16 @@ body {
 /* heading and logo */
 
 h1 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Rye', cursive;
     text-transform: uppercase;
     font-style: italic;
     letter-spacing: 4px;
     color: #252525;
+}
+
+h2,
+h3 {
+    font-weight: 500;
 }
 
 #logo {
