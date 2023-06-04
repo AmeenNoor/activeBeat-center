@@ -22,18 +22,15 @@ body {
 
 h1 {
     font-family: 'Rye', cursive;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     color: #141850;
 }
 
-h2 {
-    font-size: xx-large;
-    font-weight: bold;
-}
+h2 {}
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 230%;
     margin-left: 30px;
 }
 
@@ -45,7 +42,7 @@ span {
 
 #menu {
     font-size: 110%;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 
 #menu,
@@ -407,4 +404,17 @@ label {
 
     }
 
+}
+
+/* For medium screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        line-height: 25px;
+    }
 }
