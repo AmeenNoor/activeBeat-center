@@ -331,13 +331,18 @@ label {
     width: 80%;
     overflow: hidden;
     position: relative;
-    background-color: rgb(170, 255, 0);
     height: 900px;
 }
 
 #thank-container p {
     font-size: 30px;
-    margin: 100px;
-    border: 1px solid black;
+    margin: 200px;
+    border: 1px solid white;
     text-align: center;
+    padding: 40px;
+    box-shadow: 0 0 50px 0 #ed7966;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color: #ed7966;
+    color: white;
 }
