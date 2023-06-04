@@ -90,7 +90,7 @@ span {
 /* about us section */
 
 #about-us {
-    width: 63%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -106,12 +106,39 @@ span {
 /* membership section */
 
 #membership {
-    width: 70%;
+    width: 80%;
     margin: 50px auto;
     text-align: center;
 }
 
-#membership div {
+#membership>h2 {
+    margin-bottom: 20px;
+}
+
+.membership-container {
+    margin: 0 auto;
+}
+
+.block-membership {
+    width: 30%;
+    height: 280px;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color: #ed7966;
+    color: white;
+    display: inline-block;
+    padding: 20px 0;
+    margin-right: 15px;
+}
+
+.block-membership h2,
+.block-membership p,
+.block-membership h3 {
+    padding: 15px 15px;
+}
+
+
+/* #membership div {
     width: 30%;
     height: 300px;
     display: inline-block;
@@ -130,7 +157,7 @@ span {
 #membership h2,
 #membership h3 {
     margin: 30px;
-}
+} */
 
 /* social media section */
 
@@ -353,16 +380,17 @@ label {
 
     /* CSS rules for larger to medium screens */
     #about-us {
-        width: 70%;
+        width: 80%;
     }
 
     #membership {
         width: 80%;
-
     }
 
-    #membership div {
-        width: 70%;
+    .block-membership {
+        width: 100%;
+        margin-bottom: 10px;
+        height: 250px;
     }
 
     .classes-row {
