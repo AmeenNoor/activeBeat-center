@@ -346,3 +346,37 @@ label {
     background-color: #ed7966;
     color: white;
 }
+
+/* Media queries for larger to medium screens size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+    /* CSS rules for larger to medium screens */
+    #about-us {
+        width: 70%;
+    }
+
+    #membership {
+        width: 80%;
+
+    }
+
+    #membership div {
+        width: 70%;
+    }
+
+    .classes-row {
+        column-count: 3;
+    }
+
+    .info-container {
+        display: block;
+    }
+
+    .contact-form,
+    .contact-info {
+        width: 50%;
+
+    }
+
+}
