@@ -390,31 +390,78 @@ label {
         height: 250px;
     }
 
-    .classes-row {
-        column-count: 3;
-    }
 
-    .info-container {
-        display: block;
-    }
 
-    .contact-form,
-    .contact-info {
-        width: 50%;
 
-    }
 
 }
 
 /* For medium screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
-    #menu {
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header>a {
+        margin: 0 auto;
+    }
+
+    #logo {
+        font-size: 200%;
+        margin-left: 0;
+    }
+
+    nav {
         clear: left;
-        float: left;
-        margin-left: 30px;
+        margin: 0 auto;
+    }
+
+    #menu {
+        font-size: 110%;
+        letter-spacing: 0;
+        font-weight: 700;
+    }
+
+    #menu li {
+        margin-right: 10px;
+    }
+
+    .info-container {
+        display: block;
+
+    }
+
+    .contact-form {
+        width: 50%;
+
+        border-bottom-right-radius: 90px;
         margin-bottom: 20px;
-        margin-top: 20px;
-        line-height: 25px;
+    }
+
+    .contact-info {
+        width: 50%;
+
+        border-top-left-radius: 90px;
+        border-bottom-right-radius: 0px;
+    }
+}
+
+/* For small screen sizes 800px and down */
+
+@media screen and (max-width: 800px) {
+    .contact-form {
+        width: 50%;
+
+        border-bottom-right-radius: 90px;
+        margin-bottom: 20px;
+    }
+
+    .contact-info {
+        width: 50%;
+
+        border-top-left-radius: 90px;
+        border-bottom-right-radius: 0px;
     }
 }
