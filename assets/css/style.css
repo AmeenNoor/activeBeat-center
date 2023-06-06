@@ -301,7 +301,8 @@ label {
 #gender,
 #day,
 #message,
-#time {
+#time,
+#center-class {
     margin-bottom: 10px;
     padding: 5px;
     border: 1px solid #141850;
