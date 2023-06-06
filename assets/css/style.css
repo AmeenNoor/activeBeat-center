@@ -182,7 +182,7 @@ footer {
 
 #classes-contianer {
     margin: 0 auto;
-    padding: 40px;
+
     width: 80%;
     overflow: hidden;
     position: relative;
@@ -338,6 +338,11 @@ label {
     margin: 40px;
 }
 
+.form-container {
+    margin-bottom: 40px;
+
+}
+
 #booking-container form {
     width: 30%;
     margin: 0 auto;
@@ -435,27 +440,21 @@ label {
         background-size: cover;
     }
 
-    #about-us p {
+    #about-us p,
+    #classes-contianer>p {
         font-size: 20px;
     }
 
+
     .info-container {
         display: block;
-
     }
 
-    .contact-form {
+    .contact-form,
+    .contact-info,
+    #booking-container form {
         width: 80%;
-
-        border-bottom-right-radius: 90px;
-        margin-bottom: 20px;
-    }
-
-    .contact-info {
-        width: 80%;
-
-        border-top-left-radius: 90px;
-        border-bottom-right-radius: 0px;
+        border-bottom-right-radius: 0;
     }
 
     .thankyou {
@@ -472,23 +471,6 @@ label {
 
 }
 
-/* For small screen sizes 800px and down */
-
-@media screen and (max-width: 800px) {
-    .contact-form {
-        width: 50%;
-
-        border-bottom-right-radius: 90px;
-        margin-bottom: 20px;
-    }
-
-    .contact-info {
-        width: 50%;
-
-        border-top-left-radius: 90px;
-        border-bottom-right-radius: 0px;
-    }
-}
 
 /* For small screen sizes 600px and down */
 
