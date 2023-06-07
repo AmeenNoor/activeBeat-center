@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;800&family=Rye&display=swap');
 
 /* Remove default margins,
 padding and borders */
@@ -27,6 +27,8 @@ h1 {
 }
 
 h2 {}
+
+h3 {}
 
 #logo {
     float: left;
