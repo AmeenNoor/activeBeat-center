@@ -107,7 +107,7 @@ span {
 /* membership section */
 
 #membership {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
     padding-top: 60px;
@@ -120,18 +120,22 @@ span {
 
 .membership-container {
     margin: 0 auto;
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .block-membership {
     width: 30%;
-    height: 280px;
+    height: auto;
     border-top-left-radius: 60px;
     border-bottom-right-radius: 60px;
     background-color: #ed7966;
     color: white;
-    display: inline-block;
     padding: 20px 0;
-    margin-right: 15px;
 }
 
 .block-membership h2,
@@ -418,10 +422,14 @@ label {
         width: 80%;
     }
 
+    .membership-container {
+        display: flex;
+        flex-direction: column;
+    }
+
     .block-membership {
         width: 100%;
-        margin-bottom: 10px;
-        height: 250px;
+        margin-bottom: 20px;
     }
 
     .cell {
@@ -569,8 +577,12 @@ label {
         padding: 8px 15px;
     }
 
+    #membership {
+        width: 100%;
+    }
+
     .block-membership {
-        height: 220px;
+        height: auto;
     }
 
     #contact-container {
