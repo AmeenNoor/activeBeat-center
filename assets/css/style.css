@@ -26,9 +26,11 @@ h1 {
     color: #141850;
 }
 
-h2 {}
-
-h3 {}
+h2,
+h3,
+h4 {
+    font-weight: 800;
+}
 
 #logo {
     float: left;
@@ -267,7 +269,7 @@ footer {
 
 .contact-form,
 .contact-info {
-    width: 33%;
+    width: 35%;
     margin: 10px auto;
     padding: 40px;
     box-shadow: 0 0 20px 0 #ed7966;
@@ -366,7 +368,7 @@ label {
 }
 
 #booking-container form {
-    width: 30%;
+    width: 40%;
     margin: 0 auto;
     padding: 40px;
     box-shadow: 0 0 20px 0 #ed7966;
@@ -408,8 +410,6 @@ label {
 /*----------------------------------------------------------------------------*/
 
 @media screen and (max-width: 1200px) {
-
-    /* CSS rules for larger to medium screens */
     #about-us {
         width: 80%;
     }
@@ -434,6 +434,10 @@ label {
 
     }
 
+    #booking-container,
+    #contact-container {
+        width: 100%;
+    }
 
 
 
