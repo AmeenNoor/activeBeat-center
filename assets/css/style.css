@@ -96,7 +96,7 @@ span {
 }
 
 #about-us p {
-    font-size: 25px;
+    font-size: 22px;
     text-align: justify;
 }
 
@@ -104,8 +104,10 @@ span {
 
 #membership {
     width: 80%;
-    margin: 50px auto;
+    margin: 0 auto;
     text-align: center;
+    padding-top: 60px;
+    padding-bottom: 100px;
 }
 
 #membership>h2 {
@@ -177,50 +179,56 @@ footer {
     color: #141850;
 }
 
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------- Classes Page -------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
-/* Classes Page */
 
 #classes-contianer {
     margin: 0 auto;
-
     width: 80%;
     overflow: hidden;
     position: relative;
-
+    padding-top: 60px;
+    padding-bottom: 100px;
 }
 
 #classes-contianer>h2 {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 #classes-contianer>p {
-    font-size: 25px;
+    font-size: 22px;
     text-align: justify;
-    margin: 20px auto;
+    margin-bottom: 100px;
 }
 
 .classes-row {
     width: 100%;
-    margin: 0 auto;
-    padding-top: 60px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .cell {
-    width: 33%;
+    width: 30%;
     height: 400px;
-    margin: 40px 0;
     text-align: center;
-    display: inline-block;
-
+    margin-bottom: 100px;
 }
 
 .cell img {
-    width: 300px;
-    height: 300px;
-    margin: 0 auto;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     box-shadow: 0 0 20px 0 #ed7966;
+
 }
 
 .cell h3,
@@ -228,19 +236,25 @@ footer {
     margin: 15px 0;
 }
 
-/* Contact us Page */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------ Contact us Page -----------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
 
 #contact-container {
     margin: 0 auto;
     width: 80%;
     overflow: hidden;
     position: relative;
-
+    padding-top: 60px;
+    padding-bottom: 120px;
 }
 
 #contact-container>h2 {
     text-align: center;
-    margin: 40px;
+    margin-bottom: 40px;
 }
 
 .info-container {
@@ -325,23 +339,28 @@ label {
     color: #f16c6b;
 }
 
-/* Booking page */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------- Booking page -------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
 #booking-container {
     margin: 0 auto;
     width: 80%;
     overflow: hidden;
     position: relative;
+    padding-top: 60px;
+    padding-bottom: 100px;
 }
 
 #booking-container h2 {
     text-align: center;
-    margin: 40px;
+    margin-bottom: 40px;
 }
 
 .form-container {
     margin-bottom: 40px;
-
 }
 
 #booking-container form {
@@ -352,7 +371,11 @@ label {
     border-bottom-right-radius: 90px;
 }
 
-/* Thank you page */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------ Thank you page ------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
 #thank-container {
     margin: 0 auto;
@@ -376,7 +399,11 @@ label {
     color: white;
 }
 
-/* Media queries for larger to medium screens size from 1200px wide and down */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/* Media queries for larger to medium screens size from 1200px wide and down  */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
 @media screen and (max-width: 1200px) {
 
@@ -395,13 +422,26 @@ label {
         height: 250px;
     }
 
+    .cell {
+        margin-bottom: 60px;
+    }
+
+    .cell img {
+        width: 200px;
+        height: 200px;
+
+    }
 
 
 
 
 }
 
-/* For medium screen sizes from 950px wide and down */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*-------------- For medium screen sizes from 950px wide and down ------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
 @media screen and (max-width: 950px) {
     header {
@@ -446,6 +486,15 @@ label {
         font-size: 20px;
     }
 
+    .cell {
+        width: 50%;
+    }
+
+    .cell img {
+        width: 170px;
+        height: 170px;
+
+    }
 
     .info-container {
         display: block;
@@ -472,8 +521,11 @@ label {
 
 }
 
-
-/* For small screen sizes 600px and down */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------ For small screen sizes 600px and down -------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
 
 @media screen and (max-width: 600px) {
     #logo {
