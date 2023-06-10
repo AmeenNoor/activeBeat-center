@@ -381,11 +381,12 @@ label {
 
 /*----------------------------------------------------------------------------*/
 /*----------------------------------------------------------------------------*/
-/*------------------------------ Thank you page ------------------------------*/
+/*------------------------- Thank you & 404 page -----------------------------*/
 /*----------------------------------------------------------------------------*/
 /*----------------------------------------------------------------------------*/
 
-#thank-container {
+#thank-container,
+#error-container {
     margin: 0 auto;
     padding: 40px;
     width: 80%;
@@ -394,7 +395,8 @@ label {
 
 }
 
-#thank-container p {
+#thank-container p,
+#error-container p {
     font-size: 30px;
     margin: 200px;
     border: 1px solid white;
@@ -496,7 +498,9 @@ label {
     }
 
     #about-us p,
-    #classes-contianer>p {
+    #classes-contianer>p,
+    #thank-container p,
+    #error-container p {
         font-size: 20px;
     }
 
@@ -522,12 +526,14 @@ label {
         border-bottom-right-radius: 0;
     }
 
-    .thankyou {
+    .thankyou,
+    .error-message {
         margin: 0 auto;
         width: 100%;
     }
 
-    #thank-container p {
+    #thank-container p,
+    #error-container p {
         font-size: 30px;
         margin: 300px auto;
         border-top-left-radius: 40px;
@@ -568,7 +574,8 @@ label {
     #about-us p,
     .block-membership p,
     #classes-contianer>p,
-    #thank-container p {
+    #thank-container p,
+    #error-container p {
         font-size: 15px;
     }
 
@@ -634,12 +641,14 @@ label {
         height: 170px;
     }
 
-    .thankyou {
+    .thankyou,
+    .error-message {
         margin: 0 auto;
         width: 100%;
     }
 
-    #thank-container p {
+    #thank-container p,
+    #error-container p {
         margin: 50px auto;
         border-top-left-radius: 0;
         border-bottom-right-radius: 0;
