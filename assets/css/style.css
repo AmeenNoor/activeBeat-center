@@ -398,13 +398,14 @@ label {
 #thank-container p,
 #error-container p {
     font-size: 30px;
-    margin: 200px;
+    margin-top: 100px;
+    margin-bottom: 400px;
     border: 1px solid white;
     text-align: center;
-    padding: 40px;
+    padding: 20px;
     box-shadow: 0 0 50px 0 #ed7966;
-    border-top-left-radius: 60px;
-    border-bottom-right-radius: 60px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
     background-color: #ed7966;
     color: white;
 }
@@ -449,7 +450,11 @@ label {
         width: 100%;
     }
 
-
+    .thankyou,
+    .error-message {
+        margin: 0 auto;
+        width: 80%;
+    }
 
 }
 
@@ -500,6 +505,8 @@ label {
     #about-us p,
     #classes-contianer>p,
     #thank-container p,
+    #error-container p,
+    #thank-container p,
     #error-container p {
         font-size: 20px;
     }
@@ -524,20 +531,6 @@ label {
     #booking-container form {
         width: 80%;
         border-bottom-right-radius: 0;
-    }
-
-    .thankyou,
-    .error-message {
-        margin: 0 auto;
-        width: 100%;
-    }
-
-    #thank-container p,
-    #error-container p {
-        font-size: 30px;
-        margin: 300px auto;
-        border-top-left-radius: 40px;
-        border-bottom-right-radius: 40px;
     }
 
 }
@@ -641,15 +634,9 @@ label {
         height: 170px;
     }
 
-    .thankyou,
-    .error-message {
-        margin: 0 auto;
-        width: 100%;
-    }
 
     #thank-container p,
     #error-container p {
-        margin: 50px auto;
         border-top-left-radius: 0;
         border-bottom-right-radius: 0;
     }
