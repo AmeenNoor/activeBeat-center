@@ -47,6 +47,18 @@ Click ![here](https://ameennoor.github.io/activeBeat-center/) to visit the websi
 ## User Experience (UX)
 ### User storis
 
+1. As a user, I want to easily navigate through the website, so I can find the information I need.
+
+2. As a user, I want to learn about ActiveBeat Center and its offerings, so I can understand if it meets my fitness needs.
+
+3. As a user, I want to find information about the different membership options, so I can choose the one that suits me best.
+
+4. As a user, I want to access the contact information of ActiveBeat Center, so I can get in touch with them if needed.
+
+5. As a user, I want to explore the different classes offered by ActiveBeat Center, so I can choose the ones that interest me.
+
+6. As a user, I want to easily access the social media pages of ActiveBeat Center, so I can stay updated on their activities and events.
+
 ### Design
 - #### Colors
 - #### Images
