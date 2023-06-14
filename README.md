@@ -123,19 +123,28 @@ Click [here](https://ameennoor.github.io/activeBeat-center/) to visit the websit
 
 ## Technologies Used
 ### Languages Used
+
 1. HTML
+   
 2. CSS
+   
 ### Frameworks, Libraries and Programs Used
+
 1. [Balsamiq](https://balsamiq.com/):
    Balsamiq was used to create the mockup design for the website.
+
 2. [GitHub](https://github.com/):
    GitHub was utilized to store the project file and folder remotely.
+
 3. [Git](https://git-scm.com/):
    Git was used in the Gitpod terminal to add, commit, and then push the changes to GitHub.
+
 4. [Font Awesome](https://fontawesome.com/):
    Font Awesome was used to incorporate social media and contact information icons, including icons for Facebook, Twitter, Youtube, Instagram, TikTok, email and phone number, as well as the address.
+
 5. [Google Fonts](https://fonts.google.com/):
    Google fonts were used to import 'nanum myeongjo' & 'Rye' fonts into the style.css file which are used on all pages throughout the project.
+
 6. [ChromeVox](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn):
    ChromeVox extension in Google Chrome was used to perform Screen Reader Testing.
 
@@ -184,32 +193,34 @@ By visiting the classes page, all the necessary information about each class, in
 6. User Story: Easily Access Social Media Pages of ActiveBeat Center
 
 By clicking on the social media icons, including Facebook, Instagram, YouTube, Twitter, and TikTok, it was confirmed that they redirected to the corresponding social media pages of ActiveBeat Center. This functionality allows users to easily access and connect with ActiveBeat Center's social media presence, enabling them to stay updated on the latest news, events, and promotions.
+
 ### Validation Testing
 The code of the website was tested using the HTML & CSS Validator provided by The World Wide Web Consortium (W3C).  The test results indicated that some of the HTML pages produced warning errors, while others passed without any errors. See screenshots below:
 - #### HTML Validation
+  
   1. Home page:
 
-![Home Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/index-page-test.png)
+  ![Home Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/index-page-test.png)
 
   2. Classes Page:
 
-![Classes Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/classes-page.png)
+  ![Classes Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/classes-page.png)
 
   3. Contact us Page:
 
-![Contact Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/contact-us-page.png)
+  ![Contact Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/contact-us-page.png)
 
   4. Bookclass Page:
 
-![Bookclass Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/bookclass-page-test.png)
+  ![Bookclass Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/bookclass-page-test.png)
 
   5. Thankyou Page:
 
-![Thankyou Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/thankyou-page-test.png)
+  ![Thankyou Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/thankyou-page-test.png)
 
   6. 404 Page:
 
-![404 Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/404-page-test.png)
+  ![404 Page Test](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/testing/404-page-test.png)
 
 - #### CSS Validation
   
@@ -219,6 +230,7 @@ The code of the website was tested using the HTML & CSS Validator provided by Th
 The website was tested on various browsers and devices to ensure compatibility and optimal user experience. The testing process yielded successful results for most browsers and devices, except for Safari browser. In Safari, it was observed that the navigation menu was not displayed as expected. See table and screenshots below:
 
 <div align="center">
+
 | Device                    | Browser         | OS       | Screen Width | Status |
 | ------------------------- | --------------- | -------- | ------------ | ------ |
 | dev tools: iPhone SE      | Chrome          | iOS      | 375 x 667    | ✔      |
@@ -229,6 +241,7 @@ The website was tested on various browsers and devices to ensure compatibility a
 | real computer: Toshiba    | Firefox         | Ubuntu 22.04 | 1920 x 1080 | ✔      |
 | real computer: MacBook Pro 13" | Safari    | iOS      | 1920 x 1080  | ✘      |
 | real mobile phone: iPhone 7 Plus | Safari    | iOS      | 1920 x 1080  | ✘      |
+
 </div>
 
 - #### Safari browser
@@ -260,6 +273,7 @@ View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx8
 
 ### Fixing Bugs
 - #### Validation Bug
+  
   1. Home Page:
   The bug in the code was related to a warning raised by the HTML validator. The warning indicated that a section lacked a heading, and suggested using heading elements `<h2>` to `<h6>` or using a `<div>` instead. To fix the bug, the `<section>` tag was replaced with a `<div>` tag in the "FITNESS IMAGE SECTION" part of the code.
 
@@ -299,6 +313,40 @@ An open bug refers to a Safari bug that was identified during the testing phase.
 
 ## Credits
 ### Code
+
+1. The GitHub repository was created using the "Code Institute template." You can find the template at: [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template).
+
+2. The logo, navigation menu, and footer section have been adopted from the "love-running" project. You can view the project at: [Love Running](https://ameennoor.github.io/love-running/).
+   
+3. The classes display utilizes the concept of Flexbox, which was adopted from the W3Schools CSS Flexbox tutorial. You can learn more about Flexbox here: [W3Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp).
+
 ### Content
+
+1. The membership section on the home page has been rephrased and adapted from Swan Leisure's website. You can find their website at: [Swan Leisure](https://www.swanleisure.ie/).
+   
+2. The content on the classes page has been rephrased and adopted from "Blue Nile Life Style." You can find more information about them on their Facebook page: [Blue Nile Life Style](https://www.facebook.com/BlueFitness82/).
+
+3. The 404 Error message has been adopted from an article titled "20 Best Free 404 Error Page Templates 2023" by Aigars Silkalns, published on January 7, 2023. You can read the article here: [20 Best Free 404 Error Page Templates 2023](https://colorlib.com/wp/free-404-error-page-templates/).
+   
 ### Media
+
+1. The fitness image on the home page is sourced from [Pikwizard](https://pikwizard.com/).
+
+2. The yoga, Zumba, and salsa dance images on the classes page are sourced from [Freepik](https://www.freepik.com/).
+
+3. The Jiu Jitsu and Thai Boxing images on the classes page are sourced from [Unsplash](https://unsplash.com/).
+
+4. The Capoeira image on the classes page is sourced from [PxHere](https://pxhere.com/).
+
+5. The embedded map on the contact page is sourced from Google Maps.
+
+6. The color scheme image is sourced from [Coolors](https://coolors.co/).
+
+7. The social media icons are sourced from [FontAwesome](https://fontawesome.com/).
+
+8. The fonts 'Rye' and 'Nanum Myeongjo' are sourced from [Google Fonts](https://fonts.google.com/).
+
+9. The responsive image is generated using the [Am I Responsive](https://ui.dev/amiresponsive) tool.
+
 ### Mentor
+Huge thanks to my mentor "Malia Havlicek" for her support and guidance.
