@@ -8,7 +8,7 @@ Ameen Noor
 
 ActiveBeat Center is a fitness facility located in Dublin. With a range of classes and activities like Crossfit, yoga, salsa dance, Brazilian Jiu Jitsu, Zumba, Capoeira, and Thai Boxing. The target users of the website are individuals who are interested in active and healthy lifestyle. The website provides information about classes, schedules and memberships. The website is designed to be responsive, ensuring access across all platforms for users interested in joining this inclusive fitness community.
 
-![am-i-responsive](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/responsive/am-i-responsive.png)
+![Am I Responsive](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/responsive/am-i-responsive.png)
 
 Click [here](https://ameennoor.github.io/activeBeat-center/) to visit the website.
 
@@ -73,17 +73,52 @@ Click [here](https://ameennoor.github.io/activeBeat-center/) to visit the websit
   </div>
 ### Wireframes
 - #### Desktop
-  <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/home-page.png" alt="Desktop 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/classes-page.png" alt="Desktop 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/contact-us-page.png" alt="Desktop 3" width="270px" height="270px">
+<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/home-page.png" alt="Desktop 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/classes-page.png" alt="Desktop 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/contact-us-page.png" alt="Desktop 3" width="270px" height="270px">
 - #### Tablet
   <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/tablet-page1.png" alt="Tablet 1" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/tablet-page2.png" alt="Tablet 2" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/tablet-page3.png" alt="Tablet 3" width="250">
 - #### Mobile
   <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/mobile-phone-page1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/mobile-phone-page2.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/wireframes/mobile-phone-page3.png" alt="Mobile 3" width="200">
 
 
+
 ## Features
 ### Implemented Features
+
+1. Navigation Bar: The website includes a navigation bar at the top, allowing users to easily navigate between different sections such as "Contact Us," "Classes," and "Home."
+
+![Navigation Bar](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/nav-menu.png)
+
+1. Contact Form: The "Contact Us" section provides a contact form where users can input their name, email, phone number, and message to get in touch with ActiveBeat Center.
+
+![Contact Form](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/contact-form.png)
+
+1. Google Maps Integration: The website incorporates a Google Maps iframe, providing a map view of the ActiveBeat Center's location.
+
+![Google Map](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/google-map.png)
+
+1. Contact Information: The "Contact Us" section also displays the center's address, phone number, and email address, making it easy for users to reach out through different channels.
+
+![Contact Information](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/contact-information.png)
+
+1. Social Media Links: The footer of the website includes links to the center's social media pages, such as Facebook, Instagram, YouTube, Twitter and TikTok, allowing users to connect and stay updated on their activities.
+
+![Social Media Links](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/social-media-icons.png)
+
+1. Thank You page: The website includes a Thank You page that display after users fill out a form. This page confirms the successful submission of the form and displays a message informing users that a team member will be contacting them soon.
+
+![Thank You page](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/thankyou-message.png)
+
+1. 404 page: The 404.html page effectively communicates the error of a requested page not found. It displays a warning message to inform the user about the issue and provides a clear button that links to the home page as a solution. This approach helps maintain a positive user experience by guiding users back to the main page and minimizing frustration.
+
+![404 page](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/features/e404-page.png)
+
+1. Responsive Design: The website appears to be designed with a responsive layout, ensuring optimal viewing and functionality across different devices and screen sizes.
+
 ### Future Features
 
+1. Testimonial Page: Create a dedicated page where users can view ratings, reviews, and feedback from current and past members. This will help users compare the ActiveBeat Center to other fitness centers and make decisions.
+
+2. FAQ Page: Create a Frequently Asked Questions (FAQ) page that addresses common inquiries about membership, facilities, classes, trainers, and any other relevant topics. This will provide users with quick and easy access to essential information.
 
 ## Technologies Used
 ### Languages Used
