@@ -134,7 +134,7 @@ span {
     border-top-left-radius: 60px;
     border-bottom-right-radius: 60px;
     background-color: #ed7966;
-    color: white;
+    color: #ffffff;
     padding: 20px 0;
 }
 
@@ -268,7 +268,7 @@ iframe {
 
 .contact-information {
     background-color: #ed7966;
-    color: white;
+    color: #ffffff;
     padding: 30px 0 30px 60px;
     border-top-left-radius: 60px;
     border-bottom-right-radius: 60px;
@@ -378,14 +378,14 @@ label {
     font-size: 30px;
     margin-top: 100px;
     margin-bottom: 400px;
-    border: 1px solid white;
+    border: 1px solid #ffffff;
     text-align: center;
     padding: 20px;
     box-shadow: 0 0 50px 0 #ed7966;
     border-top-left-radius: 30px;
     border-bottom-right-radius: 30px;
     background-color: #ed7966;
-    color: white;
+    color: #ffffff;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -571,7 +571,7 @@ label {
     .contact-info {
         width: 80%;
         margin: 0 auto;
-        box-shadow: 0 0 0 0 white;
+        box-shadow: 0 0 0 0 #ffffff;
         border-bottom-right-radius: 0;
     }
 
@@ -593,7 +593,7 @@ label {
     #booking-container form {
         width: 80%;
         padding: 0;
-        box-shadow: 0 0 0 0 white;
+        box-shadow: 0 0 0 0 #ffffff;
         border-bottom-right-radius: 0;
     }
 
