@@ -6,6 +6,12 @@ Ameen Noor
 
 ## Introduction
 
+ActiveBeat Center is a fitness facility located in Dublin. With a range of classes and activities like Crossfit, yoga, salsa dance, Brazilian Jiu Jitsu, Zumba, Capoeira, and Thai Boxing. The target users of the website are individuals who are interested in active and healthy lifestyle. The website provides information about classes, schedules and memberships. The website is designed to be responsive, ensuring access across all platforms for users interested in joining this inclusive fitness community.
+
+![am-i-responsive](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/responsive/am-i-responsive.png)
+
+Click ![here](https://ameennoor.github.io/activeBeat-center/) to visit the website.
+
 ## Table of Contents
 
 - [ActiveBeat Center](#activebeat-center)
@@ -13,54 +19,79 @@ Ameen Noor
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [User Experience (UX)](#user-experience-ux)
+    - [User storis](#user-storis)
+    - [Design](#design)
     - [Wireframes](#wireframes)
-      - [Desktop](#desktop)
-      - [Tablet](#tablet)
-      - [Mobile](#mobile)
+  - [Features](#features)
+    - [Implemented Features](#implemented-features)
+    - [Future Features](#future-features)
   - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
   - [Deployment](#deployment)
   - [Testing](#testing)
+    - [Testing User Stories](#testing-user-stories)
+    - [Validation Testing](#validation-testing)
+    - [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
+    - [Manual Testing](#manual-testing)
+    - [Accessibility](#accessibility)
+    - [Fixing Bugs](#fixing-bugs)
+    - [Open Bugs](#open-bugs)
   - [Credits](#credits)
+    - [Code](#code)
+    - [Content](#content)
+    - [Media](#media)
+    - [Mentor](#mentor)
+
 
 ## User Experience (UX)
+### User storis
+
+### Design
+- #### Colors
+- #### Images
+- #### Typography
 ### Wireframes
-#### Desktop
+- #### Desktop
+- #### Tablet
+- #### Mobile
 
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/home-page.png" alt="Desktop 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/classes-page.png" alt="Desktop 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/contact-us-page.png" alt="Desktop 3" width="270px" height="270px">
 
-#### Tablet
-
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/tablet-page1.png" alt="Tablet 1" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/tablet-page2.png" alt="Tablet 2" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/tablet-page3.png" alt="Tablet 3" width="250">
-
-#### Mobile
-
-<img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/mobile-phone-page1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/mobile-phone-page2.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/wireframes/mobile-phone-page3.png" alt="Mobile 3" width="200">
+## Features
+### Implemented Features
+### Future Features
 
 
 ## Technologies Used
-- HMTL
-- CSS
-- Git
+### Languages Used
+### Frameworks, Libraries and Programs Used
+
+
 ## Deployment
 
-To deploy the project from GitHub, follow the steps below:
-
-1. Click on the "Settings" tab located near the top-right corner of the repository page (see screenshot below):
-
-![Deployment Image1](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image1.png)
-
-1. Scroll down the settings page and click "Pages", on the left side (see screenshot below):
-
-![Deployment Image2](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image2.png)
-
-1. In the "Source" dropdown menu, select "main" and click "Save" (see screenshot below):
-
-![Deployment Image3](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image3.png)
-
-1. Scroll back up to the "GitHub Pages" section, and you will find a URL . (Note: It may take a few moments for GitHub Pages to build and deploy the project.) (see screenshot below):
-
-![Deployment Image4](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image4.png)
 
 ## Testing
+### Testing User Stories
+### Validation Testing
+- #### HTML Validation
+- #### CSS Validation
+### Compatibility and Responsive Testing
+- #### Safari browser
+  - ##### MacBook Pro 13"
+  - ##### iPhone 7 Plus
+### Manual Testing
+### Accessibility
+- #### Accessibility Audits
+- #### Keyboard Navigation
+- #### Screen Reader Testing
+### Fixing Bugs
+- #### Validation Bug
+- #### Safari Bug
+### Open Bugs
+
 
 ## Credits
+### Code
+### Content
+### Media
+### Mentor
