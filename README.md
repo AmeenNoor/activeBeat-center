@@ -61,6 +61,8 @@ Click ![here](https://ameennoor.github.io/activeBeat-center/) to visit the websi
 
 ### Design
 - #### Colors
+  The website's color scheme uses soft and warm tones that make people feel calm and relaxed. There is also a bright color that adds excitement and passion to the design. White is used for the background and text, making everything look clean and simple, plus a deep blue color with a hint of purple, which looks nice. The colors were picked to make the website look good, go well together, and connect with the fitness center's image and the people who visit the site.
+  ![colors](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/ux/design/colors.png)
 - #### Images
 - #### Typography
 ### Wireframes
