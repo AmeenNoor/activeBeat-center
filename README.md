@@ -67,6 +67,7 @@ Click [here](https://ameennoor.github.io/activeBeat-center/) to visit the websit
   Images are chosen for the website's home and classes pages to give visual appeal and provide information. fitness image in the header section represents the core theme of the website, showcasing a visually appealing depiction of fitness and exercise. On the classes page, each class is represented by an image that shows the nature of class.
 - #### Typography
   The 'Rye' font was chosen for the logo part to give a nice appearance and clear visual. 'Nanum Myeongjo' was selected for its readability, ensuring clear body text.
+  
   <div align="center">
     <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/70e02090-847e-4d60-bbdc-653e96d1efda" alt="rye-font">
     <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/b744b425-ff2e-4824-97ab-2f60627eafcc" alt="nanum-myeongjo-font">
@@ -122,11 +123,40 @@ Click [here](https://ameennoor.github.io/activeBeat-center/) to visit the websit
 
 ## Technologies Used
 ### Languages Used
+1. HTML
+2. CSS
 ### Frameworks, Libraries and Programs Used
-
+1. [Balsamiq](https://balsamiq.com/):
+   Balsamiq was used to create the mockup design for the website.
+2. [GitHub](https://github.com/):
+   GitHub was utilized to store the project file and folder remotely.
+3. [Git](https://git-scm.com/):
+   Git was used in the Gitpod terminal to add, commit, and then push the changes to GitHub.
+4. [Font Awesome](https://fontawesome.com/):
+   Font Awesome was used to incorporate social media and contact information icons, including icons for Facebook, Twitter, Youtube, Instagram, TikTok, email and phone number, as well as the address.
+5. [Google Fonts](https://fonts.google.com/):
+   Google fonts were used to import 'nanum myeongjo' & 'Rye' fonts into the style.css file which are used on all pages throughout the project.
+6. [ChromeVox](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn):
+   ChromeVox extension in Google Chrome was used to perform Screen Reader Testing.
 
 ## Deployment
+To deploy the project from GitHub, follow the steps below:
 
+1. Click on the "Settings" tab located near the top-right corner of the repository page (see screenshot below):
+
+![Deployment_1](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image1.png)
+
+1. Scroll down the settings page and click "Pages", on the left side (see screenshot below):
+
+![Deployment_2](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image2.png)
+
+1. In the "Source" dropdown menu, select "main" and click "Save" (see screenshot below):
+
+![Deployment_3](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image3.png)
+
+1. Scroll back up to the "GitHub Pages" section, and you will find a URL . (Note: It may take a few moments for GitHub Pages to build and deploy the project.) (see screenshot below):
+
+![Deployment_4](https://github.com/AmeenNoor/activeBeat-center/blob/main/assets/deployment/deployment-image4.png)
 
 ## Testing
 ### Testing User Stories
